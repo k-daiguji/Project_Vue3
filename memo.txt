@@ -1,0 +1,16 @@
+cd 環境用のフォルダパス
+npm create vite@latest
+>Ok to proceed? (y)
+y
+>Project name
+Project_Vue3
+>Select a framework
+Vue
+> Select a variant
+TypeScript
+
+cd Project_Vue3
+npm install
+npm run dev
+
+npm i -D vuetify
